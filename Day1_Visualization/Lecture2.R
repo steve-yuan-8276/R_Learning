@@ -23,3 +23,4 @@ wtlist <- list(m1, m2, wtdata)
 
 # Q6: Return the information of the 1st element of the list wtlist.
 wtlist[[1]]
+
