@@ -1,9 +1,6 @@
 # R Practice Exercises — Chapters 1–7 Review
 
-**Dataset:** `budget_data.csv`
-**Why this dataset:** It contains a single continuous numeric variable (monthly profit/loss) across 86 rows, which makes it well suited for practicing vectors, data frames, descriptive statistics, visualization, normality checks, the Central Limit Theorem, and t-tests. (`election_data.csv` is mostly categorical data and is better saved for chi-square / frequency-table topics later on.)
 
----
 
 ## Exercise 1–2: Data Import & Vector Basics
 
@@ -57,5 +54,3 @@
 - Interpret the p-value and confidence interval, and draw a conclusion.
 
 ---
-
-*Tip: work through these in order. After finishing each exercise, share your code and output if you'd like feedback or want to check your reasoning.*
